@@ -1,0 +1,41 @@
+Problem Statements (with Example Inputs & Expected Outputs)
+
+1. **Most Frequent Character**  
+   - Input: `'abracadabra'`
+   - Output: `'a'`
+
+2. **Check if List is Palindrome**  
+   - Input: `[1, 2, 3, 2, 1]`
+   - Output: `True`
+
+3. **Flatten Arbitrary Nested Lists (Recursive)**  
+   - Input: `[1, [2, [3, 4]], 5]`
+   - Output: `[1, 2, 3, 4, 5]`
+
+4. **Custom Dict Merge (sum overlapping keys)**  
+   - Input: `{'x': 1, 'y': 2}, {'y': 3, 'z': 4}`
+   - Output: `{'x': 1, 'y': 5, 'z': 4}`
+
+5. **Sort a Dict by Values**  
+   - Input: `{'a': 3, 'b': 1, 'c': 2}`
+   - Output: `[('b', 1), ('c', 2), ('a', 3)]`
+
+6. **Remove Duplicates While Preserving Order**  
+   - Input: `[1, 2, 2, 3, 1]`
+   - Output: `[1, 2, 3]`
+
+7. **Check if Dict is Subset of Another**  
+   - Input: `{'a': 1, 'b': 2}, {'a': 1, 'b': 2, 'c': 3}`
+   - Output: `True`
+
+8. **Group Words by Length**  
+   - Input: `["hi", "hello", "yo", "yes"]`
+   - Output: `{2: ['hi', 'yo'], 5: ['hello'], 3: ['yes']}`
+
+9. **Word Frequency Counter**  
+   - Input: `'This is that is this'`
+   - Output: `{'this': 2, 'is': 2, 'that': 1}`
+
+10. **Deep Copy a Nested List (Without `copy` module)**  
+    - Input: `[1, [2, [3, 4]], 5]`
+    - Output: `[1, [2, [3, 4]], 5]` *(modifications to output shouldn't affect original)*
