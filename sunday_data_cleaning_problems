@@ -1,0 +1,55 @@
+"""
+===========================
+🔍 ALL PROBLEMS SUMMARY
+===========================
+
+1. First Non-Repeating Character
+2. Flatten a Nested List
+3. Group Words by Anagram
+4. Longest Consecutive Sequence
+5. SQL-style Filter Function
+6. SUMIF Logic in Python
+7. Log Parser (Extract [ERROR] logs)
+8. API Response Cleaner (Remove missing keys)
+9. Normalize Nested Order Data
+10. Filter Orders from Last N Days
+"""
+
+
+"""
+===========================
+🧩 ALL PROBLEM STATEMENTS
+===========================
+
+1. First Non-Repeating Character:
+   - Given a string, return the first character that does not repeat. If all characters repeat, return None.
+
+2. Flatten a Nested List:
+   - Write a function that flattens a list which may contain nested lists of arbitrary depth.
+
+3. Group Words by Anagram:
+   - Given a list of words, group them into sets of anagrams.
+
+4. Longest Consecutive Sequence:
+   - Given an unsorted list of integers, return the length of the longest sequence of consecutive numbers.
+
+5. SQL-style Filter Function:
+   - Filter a list of dicts where a specific column has a given value, like a SQL WHERE clause.
+
+6. SUMIF Logic in Python:
+   - Write a function that sums a column’s value only when a condition column matches a given value.
+
+7. Log Parser:
+   - Extract and return log entries that are marked with the level [ERROR].
+
+8. API Response Cleaner:
+   - From a list of dicts (mock API response), remove any entries missing required keys: "email" and "name".
+
+9. Normalize Nested Order Data:
+   - Flatten nested order records into row-level line items that include order ID, customer, item, and date.
+
+10. Filter Orders from Last N Days:
+    - Return only the orders that fall within the last N days from today using the order’s "YYYY-MM-DD" date field.
+"""
+
+
