@@ -1,4 +1,4 @@
-# Python Interview Q/A Pack
+# DE Interview Q/A Pack
 
 This Python Interview starter questions will helps you in cracking interviews.
 
